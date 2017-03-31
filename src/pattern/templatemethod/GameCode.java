@@ -1,4 +1,4 @@
-package com.designpattersn.templatemethod;
+package pattern.templatemethod;
 
 /*	Коды разновидностей игр.
  *

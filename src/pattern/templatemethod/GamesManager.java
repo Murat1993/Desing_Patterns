@@ -1,4 +1,4 @@
-package com.designpattersn.templatemethod;
+package pattern.templatemethod;
 
 /*	Класс, показывающий работу шаблона проектирования "Шаблонный метод".
  *

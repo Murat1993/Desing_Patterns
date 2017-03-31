@@ -1,4 +1,4 @@
-package com.designpattersn.templatemethod;
+package pattern.templatemethod;
 
 /* 	Абстрактный класс, реализация абстрактных методов которого будет специфичной для каждого вида игры.
  *

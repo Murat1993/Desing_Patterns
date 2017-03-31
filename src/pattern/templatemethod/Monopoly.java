@@ -1,4 +1,4 @@
-package com.designpattersn.templatemethod;
+package pattern.templatemethod;
 
 /*	Игра "Монополия". Специфически только для монополии реализует методы класса Game.
  *

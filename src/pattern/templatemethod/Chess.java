@@ -1,4 +1,4 @@
-package com.designpattersn.templatemethod;
+package pattern.templatemethod;
 
 /*	Игра "Шахматы". Специфически только для шахмат реализует методы класса Game.
  *
